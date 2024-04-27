@@ -1,7 +1,5 @@
 # FigmaFileResponsivehtml
 
-Here's a README.md content for your HTML file:
-
 Power Bank Product Page
 This HTML file represents a product page for a power bank, showcasing various images and product details.
 
